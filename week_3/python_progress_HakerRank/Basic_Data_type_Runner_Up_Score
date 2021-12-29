@@ -1,0 +1,6 @@
+n = int(raw_input())
+arr = map(int, raw_input().split())
+changed_set = set(arr)
+changed_list = list(a)
+changed_list.sort()
+print(changed_list[-2])
